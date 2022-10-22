@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="name">Lizzo</string>
+    <string name="birthday">April 27, 1988</string>
+    <string name="b_day">Birthday</string>
+    <string name="myprofile">myProfile</string>
+    <string name="country">Country</string>
+</resources>
